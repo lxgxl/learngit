@@ -45,7 +45,7 @@ int main()
             stu[i].id = id;
             stu[i].name = name;
             stu[i].kaoqin[kq]++;
-            i++;
+            ++i;
         }
     }
 
